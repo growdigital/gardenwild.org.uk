@@ -10,7 +10,7 @@ _Garden Design Advisor_
 
 <div class="media">
   <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1612825034/sarah-square.png" alt="Black & white photo of Sarah">
-  <p class="media-body">Sarah has been <a href="https://www.wilsonvokins.com/">designing sustainable gardens</a> since 2013, focussing on wildlife, plants and ecosystems. She hosts the <a href="https://www.gardenmediaguild.co.uk/awards/winners-2019">award winning</a> podcast <a herf="https://rootsandall.co.uk/thepodcast/">Roots and All</a>.</p>
+  <p class="media-body">Sarah has been <a href="https://www.wilsonvokins.com/">designing sustainable gardens</a> since 2013, focussing on wildlife, plants and ecosystems. She hosts the <a href="https://www.gardenmediaguild.co.uk/awards/winners-2019">award winning</a> podcast <a href="https://rootsandall.co.uk/thepodcast/">Roots and All</a>.</p>
 </div>
 
 ### Barry Stewart
