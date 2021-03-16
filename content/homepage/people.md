@@ -22,15 +22,6 @@ _Botanist & Wildlife Advisor_
   <p class="media-body">Barry is an ecological consultant specialising in vascular and lower plants, inverterbrates and birds. He has over 30 years of field ecology experience and now runs <a href="https://celticwildflowers.co.uk/">Celtic Wild Flowers</a>, which supplies locally sourced native flowers.</p>
 </div>
 
-### Heather Birnie
-
-_Design & Photography Advisor_
-
-<div class="media">
-  <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1612825034/heather-square.png" alt="Black & white photo of Heather">
-  <p class="media-body">Heather is a portrait, lifestyle and interiors photographer. Her work focusses on sustainable living and storytelling. <a href="https://www.heatherbirnie.com/">heatherbirnie.com</a></p>
-</div>
-
 ### Jake Rayson
 
 _Administrator & Designer_
