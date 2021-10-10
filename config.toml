@@ -45,3 +45,6 @@ title = "Garden Wild - gardening with UK native wild flower plants"
 
   [params.meta]
     keywords = "wildflower, wild flower, native, UK, British, British Isles, wildlife, gallery"
+
+  [permalinks]
+  gallery = "/:filename"

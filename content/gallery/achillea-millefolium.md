@@ -4,8 +4,6 @@ title: "Achillea millefolium"
 
 Yarrow.
 
-
-
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama" data-nav="thumbs" data-thumbwidth="85" data-thumbheight="64">
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1633211836/achillea-millefolium-flowers-100626.jpg">
