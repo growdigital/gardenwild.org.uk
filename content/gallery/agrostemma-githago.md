@@ -23,5 +23,5 @@ Corncockle.
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616236464/agrostemma-githago-field-200529.jpg">
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616236464/agrostemma-githago-field-200529.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616190175/agrostemma-githago-flower-100619.jpg">
-    <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616190175/agrostemma-githago-flower-100619.jpg">
-</</a>div>
+    <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616190175/agrostemma-githago-flower-100619.jpg"></a>
+<div>

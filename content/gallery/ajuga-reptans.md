@@ -22,4 +22,4 @@ Bugle.
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1632945752/ajuga-reptans-mat-070429.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1632945752/ajuga-reptans-bronze-sun-060707.jpg">
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1632945752/ajuga-reptans-bronze-sun-060707.jpg"></a>
-div>
+<div>
