@@ -6,12 +6,12 @@ Corncockle.
 
 <!-- Add images to <div class="fotorama"></div> -->
 <div class="fotorama" data-nav="thumbs" data-thumbwidth="85" data-thumbheight="64">
+  <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616536802/agrostemma-githago-sepal-141205.jpg">
+    <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616536802/agrostemma-githago-sepal-141205.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616537378/agrostemma-githago-flower-050612.jpg">
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616537378/agrostemma-githago-flower-050612.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616537087/agrostemma-githago-fruit-180710.jpg">
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616537087/agrostemma-githago-fruit-180710.jpg"></a>
-  <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616536802/agrostemma-githago-sepal-141205.jpg">
-    <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616536802/agrostemma-githago-sepal-141205.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616450818/agrostemma-githago-plan-190616.jpg">
     <img src="https://res.cloudinary.com/gardenwild/image/upload/w_85,ar_1.77,c_thumb,g_auto/v1616450818/agrostemma-githago-plan-190616.jpg"></a>
   <a href="https://res.cloudinary.com/gardenwild/image/upload/v1616358852/agrostemma-githago-stalks-cloud-200525.jpg">
