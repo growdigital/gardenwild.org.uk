@@ -6,11 +6,11 @@ header_menu: true
 
 ### Jake Rayson 
 
-_Wildlife & Food Forest Garden Designer_
+_Food Forest Garden Designer_
 
 <div class="media">
-  <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1612825034/jake-square.png" alt="Black & white photo of Jake">
-  <p class="media-body">Sarah has been <a href="https://www.wilsonvokins.com/">designing sustainable gardens</a> since 2013, focussing on wildlife, plants and ecosystems. She hosts the <a href="https://www.gardenmediaguild.co.uk/awards/winners-2019">award winning</a> podcast <a href="https://rootsandall.co.uk/thepodcast/">Roots and All</a>.</p>
+  <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1658416512/jake-wood.png" alt="Photo of Jake in wood">
+  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a <a href="https://www.natureworks.org.uk/">wildlife food forest garden design business</a>.</p>
 </div>
 
 ### Martin Hayes
@@ -19,7 +19,8 @@ _Orchardist & Community Liaison_
 
 <div class="media">
   <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1658389451/martin-hayes-orchardist-crop.png" alt="Photo of Martin">
-  <p class="media-body">Barry is an ecological consultant specialising in vascular and lower plants, inverterbrates and birds. He has over 30 years of field ecology experience and now runs <a href="https://celticwildflowers.co.uk/">Celtic Wild Flowers</a>, which supplies locally sourced native flowers.</p>
+  <p class="media-body">Martin has been pruning, planting and advising on orchards for 40+ years. He is co-chair of <a href="https://glosorchards.org/home/">Gloucestershire Orchard Trust</a> and has worked extensively with community groups, in West Wales and England. 
+</p>
 </div>
 
 ### Daniel Richards
@@ -27,6 +28,6 @@ _Orchardist & Community Liaison_
 _Well-being_
 
 <div class="media">
-  <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1612825034/jake-square.png" alt="Black & white photo of Jake">
-  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a weekly <a href="">forest garden livestream</a> and creates <a href="https://www.udemy.com/course/the-backyard-forest/">online courses</a>.</p>
+  <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1631175141/alsatian-hat.jpg" alt="Dog avatar for Dan">
+  <p class="media-body">Dan works in mental health and well-being. He has a keen interest in forest gardens and the therapeutic value of gardening. He has started his own 1 acre forest garden in West Wales.</p>
 </div>

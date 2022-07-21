@@ -3,6 +3,6 @@ title: "Welcome"
 weight: 1
 ---
 
-Garden Wild is a [CIC](https://en.wikipedia.org/wiki/Community_interest_company) dedicated to sharing the benefits of using wild flowers in all of our gardens, whether ornamental, wildlife or edible.
+Garden Wild is a [CIC](https://en.wikipedia.org/wiki/Community_interest_company) dedicated to community climate action through forest gardening and native plants.
 
-By highlighting and showcasing the benefits of UK native wild flowers and plants, we aim to increase their use across all horticultural sectors, benefitting UK native wildlife and reducing the ecological impact of the horticultural industry.
+By highlighting and showcasing the benefits of food forest gardens, grown in combination with native wild flowers and plants, we aim to share knowledge and ideas with community projects across the UK.
