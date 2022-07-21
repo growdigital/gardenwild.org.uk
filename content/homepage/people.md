@@ -10,7 +10,7 @@ _Food Forest Garden Designer_
 
 <div class="media">
   <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1658416512/jake-wood.png" alt="Photo of Jake in wood">
-  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a <a href="https://www.natureworks.org.uk/">wildlife food forest garden design business</a>.</p>
+  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a <a href="https://www.natureworks.org.uk/">wildlife food forest garden design business</a> in Newcastle Emlyn.</p>
 </div>
 
 ### Martin Hayes
