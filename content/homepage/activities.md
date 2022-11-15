@@ -36,4 +36,4 @@ You can see prototype pages here:
 * [Wild Angelica (Angelica sylvestris)](https://www.gardenwild.org.uk/althaea-officinalis/)
 * [Bugle (Ajuga reptans)](https://www.gardenwild.org.uk/angelica-sylvestris/)
 
-All images Creative Commons from Wikimedia Commons
+All images Creative Commons from Wikimedia Commons. You may need to refresh the page on the initial page load.
