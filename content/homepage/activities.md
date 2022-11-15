@@ -9,6 +9,8 @@ _With huge respect to [Joel Pett](https://joel-pett-cartoons.creator-spring.com/
 
 ### Wildlife Allotments
 
+We have taken the ideas from the Food Forest Show Garden and developed them further, to create Wildlife Allotments. Everybody knows what an allotment is, and by concentrating on the wildlife aspects, we can introduce sustainable gardening practices such as perernnial vegetables and permanent ground cover.
+
 ### Food Forest Show Garden
 
 We applied unsuccessfully for National Lottery funding in July 2022 for a community allotment and orchard coupled with a food forest show garden business for the town of Newcastle Emlyn (there are _no_ allotments in the town).
