@@ -19,7 +19,7 @@ The food forest show gardens will demonstrate sustainable gardening methods, pla
 
 ### UK Wild Flower Gallery
 
-{{< figure src="https://res.cloudinary.com/gardenwild/image/upload/w_480v1616536802/agrostemma-githago-sepal-141205.jpg" alt="Closeup of tubular pink flower" caption="Cornockle flower (Agrostemma githago)" >}}
+{{< figure src="https://res.cloudinary.com/gardenwild/image/upload/w_480/v1616536802/agrostemma-githago-sepal-141205.jpg" alt="Closeup of tubular pink flower" caption="Cornockle flower (Agrostemma githago)" >}}
 
 We applied for funding in 2021 for the creation of a freely accessible photo gallery of Wild Flower plants, suitable for different situations and for benefitting different wildlife. Alas, we were unsuccessful.
 
