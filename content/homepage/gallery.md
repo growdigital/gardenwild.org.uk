@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-Photo collections for UK native wild flowers listed in the [Garden Wild Spreadsheet](https://bit.ly/garden-wild-spreadsheet). There is a [Ko-fi fundraiser](https://ko-fi/gardenwild), for every £15 raised, we will create a new photo collection from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
+Photo collections for UK native wild flowers listed in the [Garden Wild Spreadsheet](https://bit.ly/garden-wild-spreadsheet).
 
 * [Achillea millefolium](/achillea-millefolium/) ([Yarrow](https://pfaf.org/user/Plant.aspx?LatinName=Achillea+millefolium))
 * [Agrimonia procera](/agrimonia-procera/) ([Fragrant Agrimony](https://plantatlas.brc.ac.uk/plant/agrimonia-procera))

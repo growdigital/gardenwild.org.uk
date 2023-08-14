@@ -23,7 +23,7 @@ title = "Garden Wild - Community Forest Gardens"
   copyright = "© Garden Wild Plants CIC"
 
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Climate Resilience with Wildlife Food Forest Gardens"
+  description = "Climate Resilience with Wildlife Forest Gardens"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   favicon = "images/favicon.png"
