@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Garden Wild - Community Forest Gardens"
+title = "Garden Wild - Community climate resilience with wildlife forest gardening"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
