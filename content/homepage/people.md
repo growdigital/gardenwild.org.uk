@@ -10,7 +10,7 @@ _Food Forest Garden Designer_
 
 <div class="media">
   <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1658416512/jake-askance.png" alt="Photo of Jake in wood">
-  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a <a href="https://www.natureworks.org.uk/">wildlife forest garden design business</a> in Newcastle Emlyn.</p>
+  <p class="media-body">Jake has been designing and creating forest gardens since 2015, with a particular interest in the intersection between wildlife, edible and ornamental gardening. He runs a <a href="https://www.natureworks.org.uk/">wildlife forest garden design business</a> near Cardigan, West Wales.</p>
 </div>
 
 ### Martin Hayes
@@ -29,5 +29,5 @@ _Well-being_
 
 <div class="media">
   <img class="media-figure" src="https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_10/v1631175141/alsatian-hat.jpg" alt="Dog avatar for Dan">
-  <p class="media-body">Dan works in mental health and well-being. He has a keen interest in forest gardens and the therapeutic value of gardening. He has started his own 1 acre forest garden in West Wales.</p>
+  <p class="media-body">Dan works in mental health and well-being. He has a keen interest in forest gardens and the therapeutic value of gardening. He has his own 1 acre forest garden in West Wales.</p>
 </div>
