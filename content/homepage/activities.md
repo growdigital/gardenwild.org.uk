@@ -4,6 +4,10 @@ weight: 2
 header_menu: true
 ---
 
+### Cawr
+
+Cawr is Welsh for giant. It is a giantly ambitious project, looking at creating orchards, forest gardens, wood meadow, coppice and willow on a 22 acre site in Pembrokeshire.
+
 ### Hope Garden
 
 A community meeting space at the heart of a wildlife forest garden, the [Hope Garden](https://hopegarden.uk/) in [north Pembrokeshire, Wales](https://maps.app.goo.gl/Ag53Cc6TAULTVE75A), is born from plans for a ecologically challenging community assembly at an RHS show garden, and morphed into a prototype, outdoor classroom and edible perennial plant library.
