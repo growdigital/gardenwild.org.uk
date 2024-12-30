@@ -6,7 +6,7 @@ header_menu: true
 
 ### Hope Garden
 
-A community meeting space at the heart of a wildlife forest garden, the Hope Garden in north Pembrokeshire, Wales, is born from plans for a disruptive RHS show garden, and morphed into a prototype, outdoor classroom and edible perennial plant library.
+A community meeting space at the heart of a wildlife forest garden, the [Hope Garden](https://hopegarden.uk/) in [north Pembrokeshire, Wales](https://maps.app.goo.gl/Ag53Cc6TAULTVE75A), is born from plans for a ecologically challenging community assembly at an RHS show garden, and morphed into a prototype, outdoor classroom and edible perennial plant library.
 
 ![Adaption of classic big hoax carton](https://res.cloudinary.com/growdigital/image/upload/v1583857004/big-hoax-garden.jpg)  
 _With huge respect to [Joel Pett](https://joel-pett-cartoons.creator-spring.com/listing/new-what-if-it-s-a-big-hoax)_
