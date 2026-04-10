@@ -1,0 +1,39 @@
+<!-- begin author -->
+<section class="author">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner">
+
+          <div class="author__box{{ if and (.Site.Params.global.cover.enable) (.Site.Params.global.cover.homepage_image) (.Site.Params.author.author_avatar) }} with-global-cover{{ end }}">
+            <div class="author__info">
+              <div class="author__meta">
+                {{ if .Site.Params.author.author_avatar }}
+                <a href="/about/" class="author__avatar">
+                  <img src="{{ .Site.Params.author.author_avatar }}" alt="{{ .Site.Params.author.author_name }}">
+                </a>
+                {{ end }}
+  
+                {{ if .Site.Params.author.author_name }}
+                  <h1 class="author__name"><a href="/about/">{{ .Site.Params.author.author_name | safeHTML }}</a></h1>
+                {{ end }}
+
+                {{ if .Site.Params.author.author_role }}
+                  <span class="author__role">{{ .Site.Params.author.author_role }}</span>
+                {{ end }}
+              </div>
+              {{ if .Site.Params.author.cta_button_text }}
+                <a href="{{ .Site.Params.author.cta_button_link }}" class="cta-button"><i class="fa-regular fa-envelope"></i> {{ .Site.Params.author.cta_button_text }}</a>
+              {{ end }}
+            </div>
+            {{ if .Site.Params.author.author_bio }}
+              <p class="author__bio">{{ .Site.Params.author.author_bio | safeHTML }}</p>
+            {{ end }}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end author -->

@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ if (eq .Section "tags") }}
+
+<!-- begin page -->
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ humanize .Title }}</h1>
+  </div>
+
+  <div class="page__tags">
+    <div class="row">
+      {{ range .Data.Pages }}
+        {{ partial "article.html" . }}
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+<!-- end page -->
+
+{{ else }}
+
+<!-- begin page -->
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ .Title}}</h1>
+    {{ if .Description }}
+      <p class="page-section-description">{{ .Description }}</p>
+    {{ end }}
+  </div>
+
+  <div class="page__blog">
+    <div class="row">
+      {{ range .Data.Pages }}
+        {{ partial "article.html" . }}
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+<!-- end page -->
+
+{{ end }}
+
+{{ end }}

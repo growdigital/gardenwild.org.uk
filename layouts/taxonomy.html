@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="page-section-description">{{ .Description }}</p>
+    {{ end }}
+  </div>
+
+  <div class="page__tags">
+    <div class="row">
+      {{ $type := .Type }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+      {{ $name := .Name }}
+      {{ $count := .Count }}
+      {{ with site.GetPage (printf "/%s/%s" $type $name) }}
+        <div class="page__tags__item col col-3 col-t-4 col-m-6">
+          <a href="{{ .RelPermalink }}" class="page__tags__link">{{ .Name }} <sup>({{ $count }})</sup></a>
+        </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+
+{{ end }}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+  <body class="{{ if eq .Site.Params.color_scheme "auto" }}scheme--toggle{{ else }}scheme--{{ .Site.Params.color_scheme }}{{ end }}">
+
+    {{ template "_internal/google_analytics.html" . }}
+
+    {{ if and (.Site.Params.global.cover.enable) (.Site.Params.global.cover.homepage_image) ( .IsHome) }}
+    <div class="global-cover">
+      <img src="{{ .Site.Params.global.cover.homepage_image }}" alt="{{ .Site.Title }}">
+    </div>
+    {{ else if .Params.page_cover }}
+    <div class="global-cover">
+      <img src="{{ .Params.page_cover | absURL }}" alt="{{ .Title }}">
+    </div>
+    {{ end }}
+
+    <div class="global-content">
+    
+      {{ if .IsHome }}
+        {{ partial "section-author.html" . }}
+      {{ end }}
+
+      {{ partial "header.html" . }}
+
+      {{ if and (not .IsHome) ((.Site.Params.breadcrumbs.enable)) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+
+      <!-- begin content -->
+      <main class="content{{ if .Site.Params.breadcrumbs.enable }} with-breadcrumbs{{ end }}" aria-label="Content">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <!-- end content -->
+
+      {{ partial "section-subscribe.html" . }}
+
+      {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "javascripts.html" . }}
+
+  </body>
+
+</html>

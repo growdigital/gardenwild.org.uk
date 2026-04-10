@@ -1,0 +1,62 @@
+{{ if .Site.Params.blog.enable }}
+<!-- begin blog -->
+<section class="section blog">
+  <div class="container">
+
+    <div class="section__info">
+      <div class="section__head">
+        <h2 class="section__title"><i class="fa-solid fa-pencil"></i> {{ .Site.Params.blog.blog__title | safeHTML }}</h2>
+      </div>
+      {{ if .Site.Params.blog.blog__description }}
+        <p class="section__description">{{ .Site.Params.blog.blog__description | safeHTML }}</p>
+      {{ end }}
+    </div>
+
+    <div class="blog__wrapper animate">
+      <div class="grid">
+        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+        {{ range $paginator.Pages }}
+          <div class="article-small grid__post">
+
+            {{ if .Params.Image }}
+              <a class="article-small__image" href="{{ .RelPermalink }}">
+                <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+              </a>
+            {{ end }}
+
+            <div class="article-small__content">
+              <h2 class="article-small__title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h2>
+              
+              <div class="article-small__meta">
+                {{ if .Params.tags }}
+                <div class="article-small__tags">
+                  {{ range (.GetTerms "tags") }}
+                    <a href="{{ .Permalink }}" class="article-small__tag">{{ .LinkTitle }}</a>
+                  {{ end }}
+                </div>
+                &nbsp;&bull;&nbsp;
+                {{ end }}
+                <time class="article-small__date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan, 2006" }}</time>
+                {{ if gt (len .Content) 1 }}
+                  &nbsp;&bull;&nbsp;
+                  <span class="article-small__minutes">{{ .ReadingTime }} min read</span>
+                {{ end }}
+              </div>
+              
+              <p class="article-small__excerpt">{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | safeHTML }}{{ end }}</p>
+            </div>
+
+          </div>
+        {{ end }}
+      </div>
+
+      {{ partial "pagination.html" . }}
+    </div>
+
+  </div>
+
+</section>
+<!-- end blog -->
+{{ end }}

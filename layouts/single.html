@@ -1,0 +1,101 @@
+{{ define "main" }}
+
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "videos") }}
+
+<!-- begin post -->
+<article class="post container">
+
+  <div class="post-head">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      {{ if .Params.tags }}
+      <div class="post-tags">
+        Publish in&nbsp;
+        {{ range ($.GetTerms "tags") }}
+          <a href="{{ .Permalink }}" class="post__tag">{{ .LinkTitle }}</a>
+        {{ end }}
+      </div>
+      &nbsp;&bull;&nbsp;
+      {{ end }}
+      <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan, 2006" }}</time>
+      {{ if gt (len .Content) 1 }}
+        &nbsp;&bull;&nbsp;
+        <span class="post-minutes">{{ .ReadingTime }} min read</span>
+      {{ end }}
+    </div>
+    {{ if .Description }}
+      <p class="post-description">{{ .Description }}</p>
+    {{ end }}
+  </div>
+
+  {{ if .Params.video_embed }}
+  <div class="post-video">
+    <div class="post-video__wrap">
+      <iframe src="{{ .Params.video_embed }}" loading="lazy" width="640" height="360" frameborder="0"
+        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+  {{ else }}
+
+  {{ if .Params.image }}
+    <div class="post-image">
+      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+    </div>
+  {{ end }}
+
+  {{ end }}
+
+  <div class="post__content">
+    {{ if .Params.toc }}
+    <div class="table-of-contents">
+      <h2 class="table-of-contents__title">Table of Contents</h2>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+  </div>
+
+  {{ partial "share-buttons.html" . }}
+
+  {{ partial "related-posts.html" . }}
+</article>
+<!-- end post -->
+
+{{ if .Site.Params.disqus.disqusShortname }}
+  {{ partial "disqus-comments.html" . }}
+{{ end }}
+
+{{ else }}
+
+<!-- begin page -->
+<article class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="page-description">{{ .Description }}</p>
+    {{ end }}
+  </div>
+
+  {{ if .Params.image }}
+    <div class="page-image">
+      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+    </div>
+  {{ end }}
+
+  <div class="page__content">
+    {{ if .Params.toc }}
+    <div class="table-of-contents">
+      <h2 class="table-of-contents__title">Table of Contents</h2>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+  </div>
+
+</article>
+<!-- end page -->
+
+{{ end }}
+
+{{ end }}

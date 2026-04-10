@@ -1,0 +1,13 @@
+{{ $related := first 2 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+{{ with $related }}
+<!-- begin section related -->
+<div class="section-related">
+  <h4 class="section-related__title">You may also like...</h4>
+  <div class="row grid">
+    {{ range . }}
+      {{ partial "article.html" . }}
+    {{ end }}
+  </div>
+</div>
+<!-- end section related -->
+{{ end }}
