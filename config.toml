@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Garden Wild - Community climate resilience with wildlife forest gardening"
+title = "Garden Wild - Wildlife orchards & forest gardens"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -23,7 +23,7 @@ title = "Garden Wild - Community climate resilience with wildlife forest gardeni
   copyright = "© Garden Wild Plants CIC"
 
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Climate Resilience with Wildlife Forest Gardens"
+  description = "Wildlife orchards & forest gardens"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   favicon = "images/favicon.png"
@@ -37,14 +37,12 @@ title = "Garden Wild - Community climate resilience with wildlife forest gardeni
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Garden Wild - Community Forest Gardens"
+  title = "Garden Wild - Wildlife orchards & forest gardens"
 
   # This theme will, by default, inject a design-by-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-)
   hidedesignbyline = true
 
   [params.meta]
-    keywords = "forest garden, food forest, community, wildflower, wild flower, native, UK, British, British Isles, wildlife, gallery"
+    keywords = "forest garden, orchard, fruit trees, food forest, community, wildflower, wild flower, native, UK, British, British Isles, wildlife, gallery"
 
-  [permalinks]
-  gallery = "/:filename"

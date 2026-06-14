@@ -3,45 +3,39 @@ title: "Activities"
 weight: 2
 header_menu: true
 ---
+### Orchard & garden consultancy
+![Man up a tree with a pruning saw](https://res.cloudinary.com/growdigital/image/upload/v1548532281/martin-874215B9.jpg)
+*Martin pruning, up in the canopy of an apple tree*
 
-### Cawr
+We are available for select consultancy work, particularly if there is a community element involved. Martin has years of experience planning, planting and pruning orchards, with a particular emphasis on community orchards and outreach work, and incorporating wildlife features; Jake is adept at designing, planning and overseeing landscaping of wildlife forest gardens.
 
-Cawr is Welsh for giant. It is a giantly ambitious project, looking at creating orchards, forest gardens, wood meadow, coppice and willow on a 22 acre site in Pembrokeshire.
+![CAD garden plan with drone background](https://res.cloudinary.com/growdigital/image/upload/v1781431279/260614-hope-garden-cad-drone-screenshot.webp)
+*CAD design of Hope Garden by Jake*
 
-### Hope Garden
+### Hope Garden<br>*Gardd Gobaith*
+![Workshop under canvas structure on heptagonal base](https://res.cloudinary.com/growdigital/image/upload/v1753896666/250613-cilgerran-shelter-inside.webp)
+*The first Ysgol Cilgerran workshop at the Hope Garden, with ecologists Brioney and Kate*
 
-A community meeting space at the heart of a wildlife forest garden, the [Hope Garden](https://hopegarden.uk/) in [north Pembrokeshire, Wales](https://maps.app.goo.gl/Ag53Cc6TAULTVE75A), is born from plans for a ecologically challenging community assembly at an RHS show garden, and morphed into a prototype, outdoor classroom and edible perennial plant library.
+The Hope Garden outdoor classroom and community meeting space at the heart of a wildlife forest garden, the [Hope Garden](https://hopegarden.uk/) in [north Pembrokeshire, Wales](https://maps.app.goo.gl/Ag53Cc6TAULTVE75A), is the site of pruning and gardening workshops and edible perennial plant library. The local school, [Ysgol Cilgerran](https://sites.google.com/hwbcymru.net/ysgolcilgerran), pays regular visits to the garden and the surrounding grassland and woodland.
 
-![Adaption of classic big hoax carton](https://res.cloudinary.com/growdigital/image/upload/v1583857004/big-hoax-garden.jpg)  
-_With huge respect to [Joel Pett](https://joel-pett-cartoons.creator-spring.com/listing/new-what-if-it-s-a-big-hoax)_
+The Hope Garden is available for hire for a small donation toward the running costs, please email Jake at hello@gardenwild.org.uk
 
-### Wildlife Allotments
+### Tŵr Coedwig Fwyd<br>*Food Forest Tower*
+![Illustration of a circular gabion structure, with people sat on lower gabions, surrounded by a collage of edible, native plants](https://res.cloudinary.com/growdigital/image/upload/v1779309038/260520-Tw%CC%82r-Coedwig-Fwyd-presentation-slide.webp)
+*An illustration of the Tŵr Coedwig Fwyd / Food Forest Tower*
 
-We have taken the ideas from the Food Forest Show Garden and developed them further, to create Wildlife Allotments. Everybody knows what an allotment is, and by concentrating on the wildlife aspects, we can introduce sustainable gardening practices such as perernnial vegetables and permanent ground cover.
+Tŵr Coedwig Fwyd / Food Forest Tower, is simultaneously a site of multiple wildlife habitat, raised beds for a perennial edible showcase, and a piece of land art. It is an extension of the original idea of [Tŵr Gwyllt](https://storiwyllt.cymru/posts/260320-aberaeron-twr-gwyllt/) / Wild Tower, by artist [Rebecca Wyn Kelly](https://www.instagram.com/rebeccawynkelly/) and Jake, into the edible realm. Tŵr Coedwig Fwyd illustrates how a garden space can be beautiful, functional, edible and good for wildlife all at the same time.
 
-### Food Forest Show Garden
+We will be building the first one in 2026/2027 at a site in Fishguard, centred around the idea and practise of an orchard.
 
-We applied unsuccessfully for National Lottery funding in July 2022 for a community allotment and orchard coupled with a food forest show garden business for the town of Newcastle Emlyn (there are _no_ allotments in the town).
+### Food Forest Enterprise<br>*Menter Coedwig Bwyd*
+![CAD plan of forest garden](https://res.cloudinary.com/growdigital/image/upload/v1742331136/250318-cawr-plan.webp)
+*Community enterprise agroforestry scheme in Pembrokeshire*
 
-The food forest show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online.
+Our vision is an experimental agroforestry showcase which *increases* biodiversity by supporting a diversity of long-term, ecologically viable livelihoods and strengthening ecological and cultural education.
 
-### UK Wild Flower Gallery
+The key principle is that biodiversity enhancement does not have to cost agricultural productiveness.
 
-{{< figure src="https://res.cloudinary.com/gardenwild/image/upload/v1616536802/agrostemma-githago-sepal-141205.jpg" alt="Closeup of tubular pink flower" caption="Cornockle flower (Agrostemma githago)" >}}
+This aligns with the [Welsh Government‘s Net Zero 2035 group](https://netzero2035.wales/), whose recent [reports](https://netzero2035.wales/our-reports/) call for “deliverable pathways to achieve positive climate and nature outcomes with and for their citizens”.
 
-We applied for funding in 2021 for the creation of a freely accessible photo gallery of Wild Flower plants, suitable for different situations and for benefitting different wildlife. Alas, we were unsuccessful.
-
-The gallery would be useful for both forest gardens and more traditional ornamental gardens, as native plants are more beneficial as they have co-evolved with wildlife.
-
-The architecture for the project remains in place, we just need to find a funding source.
-
-You can see prototype pages here:
-
-* [Yarrow (Achillea millefolium)](https://www.gardenwild.org.uk/achillea-millefolium/)
-* [Fragrant Agrimony (Agrimonia procera)](https://www.gardenwild.org.uk/agrimonia-procera/)
-* [Corncockle (Agrostemma githago)](https://www.gardenwild.org.uk/agrostemma-githago/)
-* [Marsh Mallow (Althaea officinalis)](https://www.gardenwild.org.uk/ajuga-reptans/)
-* [Wild Angelica (Angelica sylvestris)](https://www.gardenwild.org.uk/althaea-officinalis/)
-* [Bugle (Ajuga reptans)](https://www.gardenwild.org.uk/angelica-sylvestris/)
-
-All images Creative Commons from Wikimedia Commons. You may need to refresh the page on the initial page load.
+The objective is to secure grant funding to establish the organisational and physical infrastructure, partner with low-impact land-based stakeholders and establish a long-standing ecological study. The stakeholders‘ cooperation, management practices and nominal rent would ensure long-term site management.
