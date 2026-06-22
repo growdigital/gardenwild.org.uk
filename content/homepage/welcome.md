@@ -12,7 +12,7 @@ By showcasing the benefits of orchards and food forests grown in combination wit
 <iframe
   src="https://luma.com/embed/calendar/cal-5LLGrX7iSUYj81H/events?lt=light"
   width="600"
-  height="450"
+  height="600"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
