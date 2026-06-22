@@ -1,0 +1,10 @@
+# netlify.toml
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  # Replace with the Hugo version you use locally, e.g. "0.118.3"
+  HUGO_VERSION = "0.154.0"
+  # If you need the extended build (Sass/SCSS support), also set:
+  # HUGO_EXTENDED = "true"
